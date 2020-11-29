@@ -1,3 +1,8 @@
+# Praktikum RSBK - Tugas Modul 4
+<br><h3>Kelompok 1</h3><br>
+Nobi Kharisma (21120117130048)<br>
+Agung Budi P. (21120117140004)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
